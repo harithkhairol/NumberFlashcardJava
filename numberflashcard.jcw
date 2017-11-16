@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>numberflashcard</label>
+		<id>27</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>numberflashcard.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>numberflashcard.jcp</path>
+		</project>
+	</projects>
+</workspace>
